@@ -1,2 +1,2 @@
 # ExtcPages
-Pages for Extcs
+Website that contains Extc related contents
